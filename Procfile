@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT emissary_resource_ce_1486.wsgi:application
